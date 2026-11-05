@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "cmath": "cpp"
+    },
+    "C_Cpp.default.cppStandard": "c++17"
+}
